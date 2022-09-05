@@ -1,0 +1,1 @@
+To Visualize and Analyze a data by transfoeming the data with the help of data model.
