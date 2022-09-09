@@ -7,4 +7,4 @@ Our goal:
 3. Sales over time
 4. delivery time
 
-We need to Transform the data, create data model and visualize the data.
+We need to Transform the data, create data model and visualize the data. Open the sales csv file and open the transform data. This will open a query editor for us to do the data cleaning.
