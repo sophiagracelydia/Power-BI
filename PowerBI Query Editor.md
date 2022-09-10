@@ -55,3 +55,7 @@ CLEAN - Will remove any unwanted tabs or white spaces in between the texts.
 
 ---
 
+### 7) To do numerical operations in the text - To change the column from cm to inch
+#### Transform-> Number column
+
+
