@@ -22,6 +22,8 @@ After removing the top 2 rows it will show in the applied steps to the right - T
 
 ---
 
+### 3) To change the data types from text to fixed decimal for revenue column.
+#### Go to the column-> click the column name icon-> change to the fixed decimal
 
 There will be raw sales data. We have to clean the messy data and combine the data to get the report.
 
