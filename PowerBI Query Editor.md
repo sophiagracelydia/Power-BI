@@ -47,6 +47,11 @@ After removing the top 2 rows it will show in the applied steps to the right - T
 
 ### 6) To remove the white spaces in the data - text Operations 
 #### Tranform-> Format-> Trim  [OR] Right click on the column-> Transform-> Trim
+TRIM - Will remove all tyhe leading and ending white spaces
+#### Tranform-> Format-> Clean  [OR] Right click on the column-> Transform-> Clean
+CLEAN - Will remove any unwanted tabs or white spaces in between the texts.
 
+![image](https://user-images.githubusercontent.com/52828894/189499935-05460eb8-1de3-43cf-8cc4-336802d63371.png)
 
+---
 
