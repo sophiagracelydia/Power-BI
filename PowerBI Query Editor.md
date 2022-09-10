@@ -9,9 +9,12 @@ Ribbons present in the query editor.
 6. Tools
 7. help
 
-### To remove the top 2 rows which is empty/blank rows in the data.
+### 1) To remove the top 2 rows which is empty/blank rows in the data.
 ##### Home-> Remove rows-> Remove Top Rows
 After removing the top 2 rows it will show in the applied steps to the right - This helps to keep track the changes made in the data). Also we can reconfigure the steps to make changes without removing the applied steps.
+
+### 2) To make the first row into a header.
+##### click that row-> Home-> Use First row as Headers
 
 There will be raw sales data. We have to clean the messy data and combine the data to get the report.
 
