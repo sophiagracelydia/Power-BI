@@ -1,6 +1,6 @@
 # PowerBI Query Editor
 
-Ribbons present in the query editor. 
+Ribbons present in the query editor. We need to Transform the data, create data model and visualize the data. Open the sales csv file and open the transform data. This will open a query editor for us to do the data cleaning.
 1. File
 2. Home
 3. Transform
@@ -13,12 +13,15 @@ Ribbons present in the query editor.
 #### Home-> Remove rows-> Remove Top Rows
 #### Home-> Remove rows-> Remove Blank Rows
 #### Home-> remove rows-> Remove duplicate
+![image](https://user-images.githubusercontent.com/52828894/189499023-b6d6c580-695a-49a3-bec1-1603c6381a6b.png)
+
 After removing the top 2 rows it will show in the applied steps to the right - This helps to keep track the changes made in the data). Also we can reconfigure the steps to make changes without removing the applied steps.
 
 ---
 
 ### 2) To make the first row into a header.
 #### click that row-> Home-> Use First row as Headers
+![image](https://user-images.githubusercontent.com/52828894/189499068-324bdc96-1ba9-4e30-9458-fbab4806d6b9.png)
 
 ---
 
@@ -36,12 +39,6 @@ After removing the top 2 rows it will show in the applied steps to the right - T
 
 ---
 
-There will be raw sales data. We have to clean the messy data and combine the data to get the report.
+### 5) To split the columns
+#### Home->Split column
 
-Our goal:
-1. Sales categories
-2. Promotions
-3. Sales over time
-4. delivery time
-
-We need to Transform the data, create data model and visualize the data. Open the sales csv file and open the transform data. This will open a query editor for us to do the data cleaning.
