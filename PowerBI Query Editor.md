@@ -25,6 +25,17 @@ After removing the top 2 rows it will show in the applied steps to the right - T
 ### 3) To change the data types from text to fixed decimal for revenue column.
 #### Go to the column-> click the column name icon-> change to the fixed decimal
 
+---
+
+### 4) To extract a particular characters in the data
+#### Transform-> Extract-> First Character-> Enter the count.
+
+![image](https://user-images.githubusercontent.com/52828894/189498633-24d493f9-5675-4c39-a636-87019923eefe.png)
+
+![image](https://user-images.githubusercontent.com/52828894/189498659-92424040-4af7-4031-a9e0-aab134e7f4f4.png)
+
+---
+
 There will be raw sales data. We have to clean the messy data and combine the data to get the report.
 
 Our goal:
