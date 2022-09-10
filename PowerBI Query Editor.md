@@ -43,3 +43,10 @@ After removing the top 2 rows it will show in the applied steps to the right - T
 #### Home ->Split column->By position/By character/By delimiter
 ![image](https://user-images.githubusercontent.com/52828894/189499246-8987c8f3-5611-43c0-a4f8-68551bbe9137.png)
 
+---
+
+### 6) To remove the white spaces in the data - text Operations 
+#### Tranform-> Format-> Trim  [OR] Right click on the column-> Transform-> Trim
+
+
+
