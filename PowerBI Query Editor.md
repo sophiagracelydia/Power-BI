@@ -9,7 +9,7 @@ Ribbons present in the query editor.
 6. Tools
 7. help
 
-### 1) To remove the top 2 rows which is empty/blank rows in the data.
+### 1) To remove the top/empty/blank rows in the data.
 #### Home-> Remove rows-> Remove Top Rows
 #### Home-> Remove rows-> Remove Blank Rows
 After removing the top 2 rows it will show in the applied steps to the right - This helps to keep track the changes made in the data). Also we can reconfigure the steps to make changes without removing the applied steps.
