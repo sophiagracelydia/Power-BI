@@ -58,4 +58,6 @@ CLEAN - Will remove any unwanted tabs or white spaces in between the texts.
 ### 7) To do numerical operations in the text - To change the column from cm to inch
 #### Transform-> Number column
 
+![image](https://user-images.githubusercontent.com/52828894/189500399-8039adbb-c224-42dd-8c3e-104361f33c37.png)
 
+---
