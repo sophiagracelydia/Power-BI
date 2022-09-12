@@ -1,15 +1,9 @@
 # PowerBI Query Editor
 
 Ribbons present in the query editor. We need to Transform the data, create data model and visualize the data. Open the sales csv file and open the transform data. This will open a query editor for us to do the data cleaning.
-1. File
-2. Home
-3. Transform
-4. Add Column
-5. View
-6. Tools
-7. help
+1.File 2.Home 3.Transform 4.Add Column 5.View 6.Tools 7.Help
 
-### 1) To remove the top/empty/blank rows in the data.
+### 1) To remove the top/empty/blank rows in the data.`
 #### Home-> Remove rows-> Remove Top Rows
 #### Home-> Remove rows-> Remove Blank Rows
 #### Home-> remove rows-> Remove duplicate
@@ -50,14 +44,17 @@ After removing the top 2 rows it will show in the applied steps to the right - T
 TRIM - Will remove all tyhe leading and ending white spaces
 #### Tranform-> Format-> Clean  [OR] Right click on the column-> Transform-> Clean
 CLEAN - Will remove any unwanted tabs or white spaces in between the texts.
-
 ![image](https://user-images.githubusercontent.com/52828894/189499935-05460eb8-1de3-43cf-8cc4-336802d63371.png)
 
 ---
 
 ### 7) To do numerical operations in the text - To change the column from cm to inch
 #### Transform-> Number column
-
 ![image](https://user-images.githubusercontent.com/52828894/189500399-8039adbb-c224-42dd-8c3e-104361f33c37.png)
 
 ---
+
+### 8) To create a data model
+#### 
+
+----
