@@ -54,7 +54,7 @@ CLEAN - Will remove any unwanted tabs or white spaces in between the texts.
 
 ---
 
-### 8) To create a data model
-#### 
+### 8) To create a relationship between two or more table, we have to create data model
+#### Check the common column id present in both the tables
 
 ----
