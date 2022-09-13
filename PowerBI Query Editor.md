@@ -59,5 +59,7 @@ CLEAN - Will remove any unwanted tabs or white spaces in between the texts.
 Check the common column id present in both the tables. Just create a connection between the both using the model view.
 
 ![image](https://user-images.githubusercontent.com/52828894/189810374-d1387c7e-fd74-4455-8fc1-25141b8c61fa.png)
+![image](https://user-images.githubusercontent.com/52828894/189810633-c16970a4-52af-46a3-a896-c54027d423e6.png)
+
 
 ----
