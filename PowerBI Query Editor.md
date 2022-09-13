@@ -55,6 +55,9 @@ CLEAN - Will remove any unwanted tabs or white spaces in between the texts.
 ---
 
 ### 8) To create a relationship between two or more table, we have to create data model
-#### Check the common column id present in both the tables
+#### Go to Model view-> Drag and drop the common column to the other table
+Check the common column id present in both the tables. Just create a connection between the both using the model view.
+
+
 
 ----
