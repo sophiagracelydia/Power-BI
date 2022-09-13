@@ -58,6 +58,6 @@ CLEAN - Will remove any unwanted tabs or white spaces in between the texts.
 #### Go to Model view-> Drag and drop the common column to the other table
 Check the common column id present in both the tables. Just create a connection between the both using the model view.
 
-
+![image](https://user-images.githubusercontent.com/52828894/189810374-d1387c7e-fd74-4455-8fc1-25141b8c61fa.png)
 
 ----
