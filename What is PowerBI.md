@@ -59,6 +59,8 @@ The Q&A visual lets you ask questions about your data using natural language.
 Work well with quantitative comparisons among items where there are many categories. These are some of the out-of-the-box Power BI visuals available from the visualization pane in Power BI Desktop and Power BI Service. However, sometimes you need a more custom visual and these can be found in AppSource for Power BI.
 ![image](https://user-images.githubusercontent.com/52828894/190336024-bc4c59c9-4f2d-4b6c-817f-1ca3de42f588.png)
 
+## Filter data with Power BI
+
 
 ## To Visualize and Analyze a data by transfoeming the data with the help of data model.
 Data can be visualizated and analyzed through the PowerBI desktop. We can view dashboards, reports, and Power BI apps
