@@ -1,6 +1,12 @@
 # Power BI concepts
 The major building blocks of Power BI are: datasets, reports, and dashboards. They are all organized into workspaces, and they are created on capacities.
 
+##### 1. Microsoft Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights.
+
+##### 2. Leveraging Power BI and other Microsoft technologies can lead to significant returns in terms of not only revenue, but your business users' ability to make beneficial decisions.
+
+##### 3. Power BI is built on Azure, Microsoft's cloud computing infrastructure and platform, ensuring your data is secure and only accessible by authenticated users.
+
 ## Datasets
 A dataset is a collection of data that you import or connect to. Power BI lets you connect to and import all sorts of datasets and bring all of it together in one place. Datasets can also source data from dataflows.
 
