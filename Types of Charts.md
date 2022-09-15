@@ -16,11 +16,11 @@ After using the legend field
 ---
 ### Pie Chart
 
-***Rule 1: Dont use it for any comparison
-Rule 2: Dont compare two pie chart
-Rule 3: Use only to display percentage of total
-Rule 4: Ideally use it when you have 2-3 categories(Max 5)
-Rule 5: Don't use any legend fileds in pie chart but can use category labels + data/percentage values.***
+***Rule 1: Dont use it for any comparison***
+***Rule 2: Dont compare two pie chart***
+***Rule 3: Use only to display percentage of total***
+***Rule 4: Ideally use it when you have 2-3 categories(Max 5)***
+***Rule 5: Don't use any legend fileds in pie chart but can use category labels + data/percentage values.***
 
 In pie chart the legend field is known as the x-axis. Values would be the y-axis.
 
