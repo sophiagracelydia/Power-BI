@@ -14,6 +14,8 @@ A Power BI report is one or more pages of visualizations such as line charts, ma
 Power BI Desktop is a free application you install on your local computer that lets you connect to, transform, and visualize your data. With Power BI Desktop, you can connect to multiple different sources of data, and combine them (often called modeling) into a data model. This data model lets you build visuals, and collections of visuals you can share as reports, with other people inside your organization. Most users who work on business intelligence projects use Power BI Desktop to create reports, and then use the Power BI service to share their reports with others. When you launch Power BI Desktop, the Getting Started dialog box will appear, which provides useful links to forums, blogs, and introductory videos.
 
 In Power BI Desktop, you will begin to build reports in the Report view. You will be working in five main areas:
+![image](https://user-images.githubusercontent.com/52828894/190334173-bfe3c2a2-afba-45ab-98ed-653abc49c016.png)
+
 
 ## To Visualize and Analyze a data by transfoeming the data with the help of data model.
 Data can be visualizated and analyzed through the PowerBI desktop. We can view dashboards, reports, and Power BI apps
