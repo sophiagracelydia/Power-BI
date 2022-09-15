@@ -35,10 +35,22 @@ Bar charts are the standard for looking at a specific value across different cat
 ![image](https://user-images.githubusercontent.com/52828894/190335024-df2b3b74-a720-4a5c-bfe0-6413b30b3a84.png)
 ![image](https://user-images.githubusercontent.com/52828894/190335109-0428a76d-ecf0-4af9-b155-c4b2bbca00ca.png)
 
+## Cards: Single or Multi row
+![image](https://user-images.githubusercontent.com/52828894/190335467-2d839dfd-ca4d-47ce-8b70-2ef7841bea9c.png)
 
+## KPIs
+![image](https://user-images.githubusercontent.com/52828894/190335524-2a8bac02-b74a-483d-922b-7e73458c62ca.png)
+
+## Maps: Basic maps
+
+## Pie charts
+
+## Q&A visual
 ## To Visualize and Analyze a data by transfoeming the data with the help of data model.
 Data can be visualizated and analyzed through the PowerBI desktop. We can view dashboards, reports, and Power BI apps
 ## PowerBI Desktop -> Transform, Model, Visualize, Analyze
 ## PowerBI Cloud -> Share & collaborate
+
+
 
 https://sankalptaru.org/tree/TcLUfL/
