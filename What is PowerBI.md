@@ -40,23 +40,28 @@ Bar charts are the standard for looking at a specific value across different cat
 
 ## KPIs
 Displays progress toward a measurable goal.
+
 ![image](https://user-images.githubusercontent.com/52828894/190335524-2a8bac02-b74a-483d-922b-7e73458c62ca.png)
 
 ## Maps: Basic maps
 Used to associate both categorical and quantitative information with spatial locations.
+
 ![image](https://user-images.githubusercontent.com/52828894/190335611-d3ae5696-15f4-4c13-bd2a-ab7205c48028.png)
 
 ## Pie charts
 Pie charts show the relationship of parts to a whole.
+
 ![image](https://user-images.githubusercontent.com/52828894/190335678-a39be4ce-5784-4a2d-9ff1-0ff2f3628c1a.png)
 
 
 ## Q&A visual
 The Q&A visual lets you ask questions about your data using natural language.
+
 ![image](https://user-images.githubusercontent.com/52828894/190335733-37999dd6-932b-4378-8555-58227cdc96a3.png)
 
 ## Tables
 Work well with quantitative comparisons among items where there are many categories. These are some of the out-of-the-box Power BI visuals available from the visualization pane in Power BI Desktop and Power BI Service. However, sometimes you need a more custom visual and these can be found in AppSource for Power BI.
+
 ![image](https://user-images.githubusercontent.com/52828894/190336024-bc4c59c9-4f2d-4b6c-817f-1ca3de42f588.png)
 
 ## Filter data with Power BI
