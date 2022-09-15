@@ -30,6 +30,11 @@ In Power BI Desktop, you will begin to build reports in the Report view. You wil
 
 5. Fields pane - Where query elements and filters can be dragged onto the Report view or dragged to the Filters area of the Visualizations pane.
 
+# Bar and column charts
+Bar charts are the standard for looking at a specific value across different categories.
+![image](https://user-images.githubusercontent.com/52828894/190335024-df2b3b74-a720-4a5c-bfe0-6413b30b3a84.png)
+![image](https://user-images.githubusercontent.com/52828894/190335109-0428a76d-ecf0-4af9-b155-c4b2bbca00ca.png)
+
 
 ## To Visualize and Analyze a data by transfoeming the data with the help of data model.
 Data can be visualizated and analyzed through the PowerBI desktop. We can view dashboards, reports, and Power BI apps
