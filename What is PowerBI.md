@@ -72,7 +72,15 @@ A simple type of filtering that you can use directly on the report page is calle
 
 ![image](https://user-images.githubusercontent.com/52828894/190336731-b1a862bb-54a9-4901-89f8-f0409b6a6271.png)
 
-## 
+## Explore the Filters pane
+Another way to filter data is by opening and modifying filters in the Filters pane. The Filters pane contains filters that were added to the report by the report designer. As a consumer, you can interact with the filters and save your changes but cannot add new filters.
+
+The four types of filters are:
+
+1. Report – Applies to all pages in the report.
+2. Page – Applies to all the visuals on the current report page.
+3. Visual – Applies to a single visual on a report page. You only see visual level filters if you have selected a visual on the report canvas.
+4. Drillthrough – Allows you to explore successively more detailed views within a single visual.
 
 ## To Visualize and Analyze a data by transfoeming the data with the help of data model.
 Data can be visualizated and analyzed through the PowerBI desktop. We can view dashboards, reports, and Power BI apps
