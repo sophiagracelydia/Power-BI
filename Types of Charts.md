@@ -16,6 +16,8 @@ After using the legend field
 ---
 ### Pie Chart
 
-## Rule 1: Dont use it for any comparison
-## Rule 2:
+#### Rule 1: Dont use it for any comparison
+#### Rule 2: Dont compare two pie chart
+#### rule 3:
+
 
