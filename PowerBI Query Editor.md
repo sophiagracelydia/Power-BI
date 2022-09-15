@@ -62,19 +62,3 @@ Check the common column id present in both the tables. Just create a connection 
 ![image](https://user-images.githubusercontent.com/52828894/189810633-c16970a4-52af-46a3-a896-c54027d423e6.png)
 
 ---
-### 9) Stack column Chart
-Before using the legend field
-![image](https://user-images.githubusercontent.com/52828894/190349946-c49521e2-f284-41e3-8273-f275a6f58d7d.png)
-
-After using the legend field
-![image](https://user-images.githubusercontent.com/52828894/190456839-e00eaa0a-dd2b-485e-bccd-948e41ce1d1b.png)
-
----
-### 10) Format Tab
-1. Data labels
-![image](https://user-images.githubusercontent.com/52828894/190459599-8a8157b3-03a2-40bc-bd66-916468eca57a.png)
-
-2. Title
-![image](https://user-images.githubusercontent.com/52828894/190459800-48065f5a-8d7c-4279-a1dc-4e33bc9cc20c.png)
-
-3. 
