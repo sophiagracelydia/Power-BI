@@ -67,6 +67,13 @@ Work well with quantitative comparisons among items where there are many categor
 ## Filter data with Power BI
 Data is the core of Power BI. As you explore reports, each visual draws its underlying data from sources that often contain far more data than you need. Power BI offers several ways to filter and highlight reports. Knowing how to filter data is the key to finding the right information.
 
+## Slicers
+A simple type of filtering that you can use directly on the report page is called a slicer. Slicers provide cues to ways you can filter the results in the visuals on a report page. There are several different types of slicers: numeric, categorical, and date. Slicers make it easy to filter all the visuals on the page at once.
+
+![image](https://user-images.githubusercontent.com/52828894/190336731-b1a862bb-54a9-4901-89f8-f0409b6a6271.png)
+
+## 
+
 ## To Visualize and Analyze a data by transfoeming the data with the help of data model.
 Data can be visualizated and analyzed through the PowerBI desktop. We can view dashboards, reports, and Power BI apps
 ## PowerBI Desktop -> Transform, Model, Visualize, Analyze
