@@ -65,7 +65,7 @@ Work well with quantitative comparisons among items where there are many categor
 ![image](https://user-images.githubusercontent.com/52828894/190336024-bc4c59c9-4f2d-4b6c-817f-1ca3de42f588.png)
 
 ## Filter data with Power BI
-
+Data is the core of Power BI. As you explore reports, each visual draws its underlying data from sources that often contain far more data than you need. Power BI offers several ways to filter and highlight reports. Knowing how to filter data is the key to finding the right information.
 
 ## To Visualize and Analyze a data by transfoeming the data with the help of data model.
 Data can be visualizated and analyzed through the PowerBI desktop. We can view dashboards, reports, and Power BI apps
