@@ -20,9 +20,9 @@ In Power BI Desktop, you will begin to build reports in the Report view. You wil
 
 2. Report view, or canvas - Where visualizations are created and arranged.
 
-The Data view allows you to view all of your data available in your report. This is an easy way to quickly check data types and validate data.
+  a) The Data view allows you to view all of your data available in your report. This is an easy way to quickly check data types and validate data.
 
-The Model view allows you to visually set the relationship between tables or elements. A relationship is where two or more tables are linked together because they contain related data. This enables users to run queries for related data across multiple tables.
+  b) The Model view allows you to visually set the relationship between tables or elements. A relationship is where two or more tables are linked together because they contain related data. This enables users to run queries for related data across multiple tables.
 
 3. Pages tab - Located along the bottom of the page, this area is where you would select or add a report page.
 
