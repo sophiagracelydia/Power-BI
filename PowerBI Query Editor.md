@@ -64,3 +64,4 @@ Check the common column id present in both the tables. Just create a connection 
 ----
 
 ### 9) Stack column Chart
+![image](https://user-images.githubusercontent.com/52828894/190349946-c49521e2-f284-41e3-8273-f275a6f58d7d.png)
