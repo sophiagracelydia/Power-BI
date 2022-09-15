@@ -13,3 +13,9 @@ After using the legend field
 2. Title
 ![image](https://user-images.githubusercontent.com/52828894/190459800-48065f5a-8d7c-4279-a1dc-4e33bc9cc20c.png)
 
+---
+### Pie Chart
+
+## Rule 1: Dont use it for any comparison
+## Rule 2:
+
