@@ -18,6 +18,8 @@ After using the legend field
 
 #### Rule 1: Dont use it for any comparison
 #### Rule 2: Dont compare two pie chart
-#### rule 3: Use only to display percentage of total
+#### Rule 3: Use only to display percentage of total
+#### Rule 4: Ideally use it when you have 2-3 categories(Max 5)
+#### Rule 5:
 
 
