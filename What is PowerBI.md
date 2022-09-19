@@ -98,6 +98,4 @@ To create a button in Power BI Desktop, on the Insert ribbon, select Buttons and
 ## Transform data
 Sometimes, your data might contain extra data or have data in the wrong format. Power BI Desktop includes the Power Query Editor tool, which can help you shape and transform data so that it's ready for your models and visualizations.
 ![image](https://user-images.githubusercontent.com/52828894/190337434-ae7b3d0a-d330-4fb7-9266-61555058dd6d.png)
-
-
 https://sankalptaru.org/tree/TcLUfL/
